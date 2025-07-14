@@ -89,5 +89,9 @@ Các cờ(flag) thường dùng:
 <img width="1324" height="832" alt="image" src="https://github.com/user-attachments/assets/ff64e93a-fd57-445a-9bac-53bdd70e03fe" />
 <img width="1302" height="275" alt="image" src="https://github.com/user-attachments/assets/2a68e6bc-f362-4e8d-9511-b49efc69099c" />
 
+Các cờ đặc thù kiến trúc ARM trong biên dịch firmware
+<img width="1327" height="637" alt="image" src="https://github.com/user-attachments/assets/d2b85ee7-1075-42d1-94ad-789f10b499b1" />
+<img width="1363" height="277" alt="image" src="https://github.com/user-attachments/assets/8ceffc2d-672c-4b87-8ee2-938abb27598a" />
 
-4. 
+Các lệnh công cụ quan trọng khác trong bộ GNU Toolchain for ARM<img width="1416" height="727" alt="image" src="https://github.com/user-attachments/assets/785cf464-db22-47ae-96a2-af9101ea1bb1" />
+
